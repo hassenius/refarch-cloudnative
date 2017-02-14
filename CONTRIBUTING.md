@@ -35,7 +35,7 @@ However, here's a compact guide that follows the suggested workflow
 
 3. Add the upstream repository
 
-    Note: Guide for step 1-3 here: [forking a repo]([https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+    Note: Guide for step 1-3 here: [forking a repo](https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
 4. Create new development branch off the integration branch
 
